@@ -8,4 +8,5 @@ Your project structure and source files is loaded as system prompt for GPT.
 
 By making query you get code assistance fit to your project.
 
+![alt text](pic.png)
 Enjoy!
